@@ -176,4 +176,4 @@ This project is open source and available for personal and educational use.
 
 ## Support
 
-For issues or questions, please check the code comments or refer to Flutter documentation.
+For issues or questions, please check the code comments or refer to Flutter documentation.# my-diary-app
